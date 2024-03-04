@@ -1,0 +1,17 @@
+.carousel {
+    margin-top: 20px;
+}
+
+.carousel-item__block {
+    position: absolute;
+    z-index: 3;
+}
+
+.rooms {
+    margin-top: 20px;
+}
+
+.rooms h2 {
+    display: block;
+    margin-bottom: 15px;
+}
